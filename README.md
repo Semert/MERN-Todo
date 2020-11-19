@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+
 
 
 
@@ -16,7 +16,7 @@
 5. `Mongoose`
 6. `Express`
 
-## Available Scripts
+## Getting Started 
 
 In the project directory, First : 
 
