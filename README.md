@@ -21,10 +21,12 @@
 In the project directory, First : 
 
 ### `npm install`
+### `npm start`
 
-After that go to "cd backend", then again:
+Once again for the backend, you need to go to "cd backend", then :
 
 ### `npm install`
+### `npm start`
 
 in the backend folder.
 
