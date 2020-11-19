@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
+
+
 ### In this project you can do all "CRUD" operations as well as search, filter and so on.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44974863/99693474-7324fa00-2a9c-11eb-9390-f064733078a7.gif)
+
 
 ## Available Scripts
 
