@@ -28,7 +28,7 @@ After that go to "cd backend", then again:
 
 in the backend folder.
 
-Now Rthe app runs in the development mode.\
+Now app runs in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
