@@ -5,7 +5,7 @@
 ### In this project you can do all "CRUD" operations as well as search, filter and so on.
 
 
-FrontEnd => https://mertefe-todo.netlify.app/
+Frontend => https://mertefe-todo.netlify.app/
 
 Backend =>  https://mern-todo-mert.herokuapp.com/todos
 
